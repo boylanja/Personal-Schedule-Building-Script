@@ -3,8 +3,6 @@ data regarding each classes time slot
 first number = day of the week
 second number = start time
 third number = length of class
-
-not my actual classes btw
 '''
 
 algo = [ [0, 15, 3], [0, 9, 3], [2, 10, 3] ]
